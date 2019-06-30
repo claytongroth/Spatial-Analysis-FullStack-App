@@ -1,0 +1,855 @@
+
+  {
+    "_id": "0016229004019",
+    "allergens_tags": [],
+    "ingredients_n": "4",
+    "additives_prev_n": 1,
+    "cities_tags": [],
+    "scans_n": 1,
+    "traces_tags": [],
+    "sources": [
+      {
+        "images": [],
+        "url": "https://api.nal.usda.gov/ndb/reports/?ndbno=45094828&type=f&format=json&api_key=DEMO_KEY",
+        "import_t": 1489065385,
+        "fields": [
+          "product_name_en",
+          "ingredients_text_en"
+        ],
+        "id": "usda-ndb"
+      },
+      {
+        "fields": [
+          "countries"
+        ],
+        "import_t": 1554132213,
+        "url": "https://www.foodrepo.org/ch/products/27987",
+        "images": [],
+        "manufacturer": "0",
+        "id": "openfood-ch",
+        "name": "FoodRepo",
+        "source_licence_url": "https://creativecommons.org/licenses/by/4.0/",
+        "source_licence": "Creative Commons Attribution 4.0 International License"
+      }
+    ],
+    "allergens": "",
+    "additives_old_tags": [
+      "en:e1403",
+      "en:e435"
+    ],
+    "languages_hierarchy": [
+      "en:french",
+      "en:english"
+    ],
+    "manufacturing_places": "Thailand",
+    "expiration_date": "2017 July",
+    "codes_tags": [
+      "code-13",
+      "conflict-with-upc-12",
+      "0016229004xxx",
+      "001622900xxxx",
+      "00162290xxxxx",
+      "0016229xxxxxx",
+      "001622xxxxxxx",
+      "00162xxxxxxxx",
+      "0016xxxxxxxxx",
+      "001xxxxxxxxxx",
+      "00xxxxxxxxxxx",
+      "0xxxxxxxxxxxx"
+    ],
+    "complete": 1,
+    "nucleotides_tags": [],
+    "interface_version_modified": "20120622",
+    "created_t": 1380382681,
+    "additives_old_n": 2,
+    "additives_prev_tags": [
+      "en:e435"
+    ],
+    "labels_prev_tags": [
+      "en:green-dot"
+    ],
+    "categories_tags": [
+      "en:coconut-creams",
+      "fr:cremes-de-coco"
+    ],
+    "misc_tags": [
+      "en:nutrition-no-fruits-vegetables-nuts",
+      "en:nutrition-no-fiber-or-fruits-vegetables-nuts",
+      "en:nutriscore-computed"
+    ],
+    "brands": "Savoy",
+    "nutrition_data_prepared_per": "100g",
+    "vitamins_prev_tags": [],
+    "nutrient_levels": {
+      "sugars": "low",
+      "saturated-fat": "high",
+      "salt": "low",
+      "fat": "high"
+    },
+    "last_modified_t": 1554132213,
+    "stores": "",
+    "creator": "openfoodfacts-contributors",
+    "labels_hierarchy": [
+      "en:green-dot"
+    ],
+    "generic_name_fr": "Coconut Cream",
+    "entry_dates_tags": [
+      "2013-09-28",
+      "2013-09",
+      "2013"
+    ],
+    "quantity": "400 ml",
+    "ingredients_n_tags": [
+      "4",
+      "1-10"
+    ],
+    "generic_name": "Coconut Cream",
+    "ingredients_text_debug": "extrait de noix de coco (70%), eau, émulsifiant :   - e435 - ",
+    "completed_t": 1425020476,
+    "nutrition_grades": "d",
+    "_keywords": [
+      "coconut",
+      "vert",
+      "savoy",
+      "noix",
+      "de",
+      "point",
+      "extrait",
+      "creme",
+      "coco",
+      "cream",
+      "thailand"
+    ],
+    "nutriments": {
+      "nova-group_100g": "4",
+      "trans-fat_serving": "0",
+      "saturated-fat_value": "20.8",
+      "vitamin-a_serving": "0",
+      "iron_100g": 0.00036,
+      "trans-fat_value": "0",
+      "sodium_value": "15.7",
+      "vitamin-a_100g": "0",
+      "energy_100g": "916",
+      "carbohydrates_100g": 2.85,
+      "sodium_serving": 0.014100000000000001,
+      "energy_unit": "kJ",
+      "calcium_label": "Calcium",
+      "salt_serving": 0.0359,
+      "nova-group": "4",
+      "polyunsaturated-fat_label": "Polyunsaturated fat",
+      "carbohydrates_serving": 2.56,
+      "monounsaturated-fat": "1.36",
+      "polyunsaturated-fat_serving": 0.27,
+      "fat_unit": "g",
+      "fat_serving": 20.2,
+      "salt_100g": 0.039878,
+      "sugars_100g": "0",
+      "salt_unit": "mg",
+      "nutrition-score-uk_100g": "12",
+      "monounsaturated-fat_value": "1.36",
+      "vitamin-a": "0",
+      "fiber_serving": "0",
+      "trans-fat_label": "Trans fat",
+      "sugars": "0",
+      "vitamin-c_100g": "0",
+      "vitamin-a_unit": "% DV",
+      "iron_label": "Iron",
+      "calcium": "0",
+      "nutrition-score-fr": "12",
+      "nutrition-score-fr_100g": "12",
+      "iron_value": "2",
+      "proteins_unit": "g",
+      "fiber_value": "0",
+      "trans-fat_unit": "g",
+      "saturated-fat_serving": 18.7,
+      "trans-fat_100g": "0",
+      "calcium_value": "0",
+      "saturated-fat_100g": 20.8,
+      "salt": 0.039878,
+      "nova-group_serving": "4",
+      "saturated-fat_unit": "g",
+      "sodium_unit": "mg",
+      "fiber_100g": "0",
+      "cholesterol_label": "Cholesterol",
+      "vitamin-c_unit": "% DV",
+      "sugars_serving": "0",
+      "fat_value": "22.5",
+      "proteins_serving": 1.85,
+      "iron_serving": 0.00032399999999999996,
+      "vitamin-c_label": "Vitamin C (ascorbic acid)",
+      "vitamin-a_value": "0",
+      "calcium_serving": "0",
+      "saturated-fat": "20.8",
+      "fiber_unit": "g",
+      "polyunsaturated-fat_value": "0.30",
+      "polyunsaturated-fat": "0.3",
+      "monounsaturated-fat_label": "Monounsaturated fat",
+      "trans-fat": "0",
+      "proteins_100g": 2.06,
+      "sodium_100g": 0.0157,
+      "monounsaturated-fat_unit": "g",
+      "cholesterol": "0",
+      "sugars_unit": "g",
+      "vitamin-c_value": "0",
+      "energy": "916",
+      "carbohydrates": "2.85",
+      "vitamin-c": "0",
+      "sodium": 0.0157,
+      "cholesterol_100g": "0",
+      "fiber": "0",
+      "energy_value": "916",
+      "energy_serving": "824",
+      "fat": "22.5",
+      "nutrition-score-uk": "12",
+      "cholesterol_value": "0",
+      "calcium_100g": "0",
+      "carbohydrates_value": "2.85",
+      "cholesterol_unit": "mg",
+      "carbohydrates_unit": "g",
+      "sugars_value": "0",
+      "monounsaturated-fat_serving": 1.22,
+      "fat_100g": 22.5,
+      "cholesterol_serving": "0",
+      "iron": "0.00036",
+      "vitamin-c_serving": "0",
+      "polyunsaturated-fat_unit": "g",
+      "salt_value": "39.878",
+      "monounsaturated-fat_100g": 1.3599999999999999,
+      "calcium_unit": "% DV",
+      "proteins": "2.06",
+      "polyunsaturated-fat_100g": 0.3,
+      "vitamin-a_label": "Vitamin A",
+      "iron_unit": "% DV",
+      "proteins_value": "2.06"
+    },
+    "ingredients_hierarchy": [
+      "en:coconut-extract",
+      "en:fruit",
+      "en:coconut",
+      "en:water",
+      "en:emulsifier",
+      "fr:e435"
+    ],
+    "labels_lc": "fr",
+    "nutrition_score_beverage": 0,
+    "countries_hierarchy": [
+      "en:france",
+      "en:switzerland",
+      "en:united-states"
+    ],
+    "packaging": "Canned",
+    "max_imgid": 9,
+    "labels": "Point Vert",
+    "additives": " [ extrait-de-noix-de-coco -> fr:extrait-de-noix-de-coco  ]  [ extrait-de-noix-de -> fr:extrait-de-noix-de  ]  [ extrait-de-noix -> fr:extrait-de-noix  ]  [ extrait-de -> fr:extrait-de  ]  [ extrait -> fr:extrait  ]  [ 70 -> fr:70  ]  [ eau -> fr:eau  ]  [ emulsifiant -> fr:emulsifiant  ]  [ e435 -> en:e435  -> exists  -- ok  ] ",
+    "ingredients_that_may_be_from_palm_oil_tags": [],
+    "countries_tags": [
+      "en:france",
+      "en:switzerland",
+      "en:united-states"
+    ],
+    "pnns_groups_2": "unknown",
+    "photographers_tags": [
+      "openfoodfacts-contributors",
+      "kp757",
+      "paskl",
+      "foodrepo"
+    ],
+    "manufacturing_places_tags": [
+      "thailand"
+    ],
+    "ingredients_tags": [
+      "en:coconut-extract",
+      "en:fruit",
+      "en:coconut",
+      "en:water",
+      "en:emulsifier",
+      "fr:e435"
+    ],
+    "lc": "fr",
+    "ingredients_text_with_allergens_fr": "extrait de noix de coco (70%), eau, émulsifiant : E435",
+    "informers_tags": [
+      "openfoodfacts-contributors",
+      "manu1400",
+      "kp757",
+      "usda-ndb-import"
+    ],
+    "states_tags": [
+      "en:to-be-checked",
+      "en:complete",
+      "en:nutrition-facts-completed",
+      "en:ingredients-completed",
+      "en:expiration-date-completed",
+      "en:packaging-code-to-be-completed",
+      "en:characteristics-completed",
+      "en:categories-completed",
+      "en:brands-completed",
+      "en:packaging-completed",
+      "en:quantity-completed",
+      "en:product-name-completed",
+      "en:photos-validated",
+      "en:photos-uploaded"
+    ],
+    "product_name_en": "Coconut Cream",
+    "nucleotides_prev_tags": [],
+    "ingredients_from_palm_oil_n": 0,
+    "vitamins_tags": [],
+    "pnns_groups_1_tags": [
+      "unknown",
+      "missing-association"
+    ],
+    "nutrient_levels_tags": [
+      "en:fat-in-high-quantity",
+      "en:saturated-fat-in-high-quantity",
+      "en:sugars-in-low-quantity",
+      "en:salt-in-low-quantity"
+    ],
+    "minerals_prev_tags": [],
+    "last_image_dates_tags": [
+      "2019-04-01",
+      "2019-04",
+      "2019"
+    ],
+    "countries": "France, États-Unis, Switzerland",
+    "emb_codes_tags": [],
+    "languages_tags": [
+      "en:french",
+      "en:english",
+      "en:2",
+      "en:multilingual"
+    ],
+    "nova_groups_tags": [
+      "en:4-ultra-processed-food-and-drink-products"
+    ],
+    "ingredients_ids_debug": [
+      "extrait-de-noix-de-coco",
+      "70",
+      "eau",
+      "emulsifiant",
+      "e435"
+    ],
+    "rev": 22,
+    "emb_codes_20141016": "",
+    "purchase_places_tags": [
+      "virginia-beach",
+      "virginia",
+      "united-states"
+    ],
+    "amino_acids_tags": [],
+    "ingredients_from_palm_oil_tags": [],
+    "purchase_places": "Virginia Beach,Virginia,United States",
+    "languages": {
+      "en:french": 6,
+      "en:english": 2
+    },
+    "no_nutrition_data": null,
+    "nutrition_score_debug": " -- energy 2 + sat-fat 10 + fr-sat-fat-for-fats 10 + sugars 0 + sodium 0 - fruits 0% 0 - fiber 0 - proteins 1 -- fsa 12 -- fr 12",
+    "ingredients_original_tags": [
+      "en:coconut-extract",
+      "en:water",
+      "en:emulsifier",
+      "fr:e435"
+    ],
+    "sortkey": 1554132213,
+    "ingredients_text": "extrait de noix de coco (70%), eau, émulsifiant : E435",
+    "amino_acids_prev_tags": [],
+    "unknown_nutrients_tags": [],
+    "pnns_groups_1": "unknown",
+    "serving_size": "90 g",
+    "ingredients_text_with_allergens": "extrait de noix de coco (70%), eau, émulsifiant : E435",
+    "traces_hierarchy": [],
+    "correctors_tags": [
+      "manu1400",
+      "kp757",
+      "usda-ndb-import",
+      "foodrepo"
+    ],
+    "traces": "",
+    "labels_tags": [
+      "en:green-dot"
+    ],
+    "nutrition_score_warning_no_fruits_vegetables_nuts": 1,
+    "countries_lc": "fr",
+    "unique_scans_n": 1,
+    "emb_codes": "",
+    "additives_original_tags": [
+      "en:e435"
+    ],
+    "additives_tags": [
+      "en:e435"
+    ],
+    "categories": "en:Coconut creams, Crèmes de coco",
+    "link": "",
+    "ingredients_text_with_allergens_en": "Coconut extract 70%, water.",
+    "id": "016229004019",
+    "origins_tags": [
+      "thailand"
+    ],
+    "ingredients_debug": [
+      "extrait de noix de coco ",
+      "(",
+      "(",
+      null,
+      null,
+      "70%)",
+      ",",
+      null,
+      null,
+      null,
+      " eau",
+      ",",
+      null,
+      null,
+      null,
+      " émulsifiant ",
+      ":",
+      ":",
+      null,
+      null,
+      "  ",
+      " - ",
+      " - ",
+      " - ",
+      null,
+      "e435",
+      " - ",
+      " - ",
+      " - "
+    ],
+    "checkers_tags": [],
+    "images": {
+      "1": {
+        "uploaded_t": 1380382682,
+        "sizes": {
+          "100": {
+            "h": 75,
+            "w": 100
+          },
+          "400": {
+            "h": 300,
+            "w": 400
+          },
+          "full": {
+            "w": 3264,
+            "h": 2448
+          }
+        },
+        "uploader": "openfoodfacts-contributors"
+      },
+      "2": {
+        "uploaded_t": 1380382714,
+        "sizes": {
+          "100": {
+            "h": 75,
+            "w": 100
+          },
+          "400": {
+            "h": 300,
+            "w": 400
+          },
+          "full": {
+            "w": 3264,
+            "h": 2448
+          }
+        },
+        "uploader": "openfoodfacts-contributors"
+      },
+      "3": {
+        "sizes": {
+          "100": {
+            "w": 100,
+            "h": 75
+          },
+          "400": {
+            "w": 400,
+            "h": 300
+          },
+          "full": {
+            "w": 3264,
+            "h": 2448
+          }
+        },
+        "uploader": "openfoodfacts-contributors",
+        "uploaded_t": 1380382722
+      },
+      "4": {
+        "uploaded_t": 1425020295,
+        "uploader": "kp757",
+        "sizes": {
+          "100": {
+            "h": 100,
+            "w": 75
+          },
+          "400": {
+            "w": 300,
+            "h": 400
+          },
+          "full": {
+            "w": 1200,
+            "h": 1600
+          }
+        }
+      },
+      "5": {
+        "uploaded_t": 1425020408,
+        "uploader": "kp757",
+        "sizes": {
+          "100": {
+            "w": 75,
+            "h": 100
+          },
+          "400": {
+            "w": 300,
+            "h": 400
+          },
+          "full": {
+            "h": 1600,
+            "w": 1200
+          }
+        }
+      },
+      "6": {
+        "sizes": {
+          "100": {
+            "w": 75,
+            "h": 100
+          },
+          "400": {
+            "w": 300,
+            "h": 400
+          },
+          "full": {
+            "h": 3264,
+            "w": 2448
+          }
+        },
+        "uploader": "paskl",
+        "uploaded_t": "1461052145"
+      },
+      "7": {
+        "uploaded_t": "1461052169",
+        "sizes": {
+          "100": {
+            "h": 100,
+            "w": 75
+          },
+          "400": {
+            "w": 300,
+            "h": 400
+          },
+          "full": {
+            "h": 3264,
+            "w": 2448
+          }
+        },
+        "uploader": "paskl"
+      },
+      "8": {
+        "sizes": {
+          "100": {
+            "w": 56,
+            "h": 100
+          },
+          "400": {
+            "w": 225,
+            "h": 400
+          },
+          "full": {
+            "w": 563,
+            "h": 1000
+          }
+        },
+        "uploader": "foodrepo",
+        "uploaded_t": 1554132213
+      },
+      "9": {
+        "uploader": "foodrepo",
+        "sizes": {
+          "100": {
+            "w": 56,
+            "h": 100
+          },
+          "400": {
+            "h": 400,
+            "w": 225
+          },
+          "full": {
+            "h": 1000,
+            "w": 563
+          }
+        },
+        "uploaded_t": 1554132213
+      },
+      "front_fr": {
+        "imgid": "3",
+        "geometry": "1346x2367-530-644",
+        "sizes": {
+          "100": {
+            "h": 100,
+            "w": 57
+          },
+          "200": {
+            "w": 114,
+            "h": 200
+          },
+          "400": {
+            "w": 227,
+            "h": 400
+          },
+          "full": {
+            "h": 2367,
+            "w": 1346
+          }
+        },
+        "white_magic": null,
+        "normalize": null,
+        "rev": "8"
+      },
+      "nutrition_fr": {
+        "geometry": "636x1152-204-252",
+        "sizes": {
+          "100": {
+            "h": 100,
+            "w": 55
+          },
+          "200": {
+            "w": 110,
+            "h": 200
+          },
+          "400": {
+            "w": 221,
+            "h": 400
+          },
+          "full": {
+            "w": 636,
+            "h": 1152
+          }
+        },
+        "imgid": "4",
+        "rev": "12",
+        "white_magic": null,
+        "normalize": null
+      },
+      "nutrition": {
+        "geometry": "636x1152-204-252",
+        "sizes": {
+          "100": {
+            "h": 100,
+            "w": 55
+          },
+          "200": {
+            "w": 110,
+            "h": 200
+          },
+          "400": {
+            "w": 221,
+            "h": 400
+          },
+          "full": {
+            "w": 636,
+            "h": 1152
+          }
+        },
+        "imgid": "4",
+        "rev": "12",
+        "white_magic": null,
+        "normalize": null
+      },
+      "front": {
+        "imgid": "3",
+        "geometry": "1346x2367-530-644",
+        "sizes": {
+          "100": {
+            "h": 100,
+            "w": 57
+          },
+          "200": {
+            "w": 114,
+            "h": 200
+          },
+          "400": {
+            "w": 227,
+            "h": 400
+          },
+          "full": {
+            "h": 2367,
+            "w": 1346
+          }
+        },
+        "white_magic": null,
+        "normalize": null,
+        "rev": "8"
+      },
+      "ingredients": {
+        "geometry": "1036x351-742-930",
+        "sizes": {
+          "100": {
+            "h": 34,
+            "w": 100
+          },
+          "200": {
+            "h": 68,
+            "w": 200
+          },
+          "400": {
+            "w": 400,
+            "h": 136
+          },
+          "full": {
+            "h": 351,
+            "w": 1036
+          }
+        },
+        "imgid": "1",
+        "rev": "9",
+        "white_magic": null,
+        "normalize": null
+      },
+      "ingredients_fr": {
+        "geometry": "1036x351-742-930",
+        "sizes": {
+          "100": {
+            "h": 34,
+            "w": 100
+          },
+          "200": {
+            "h": 68,
+            "w": 200
+          },
+          "400": {
+            "w": 400,
+            "h": 136
+          },
+          "full": {
+            "h": 351,
+            "w": 1036
+          }
+        },
+        "imgid": "1",
+        "rev": "9",
+        "white_magic": null,
+        "normalize": null
+      }
+    },
+    "product_name": "Extrait de noix de coco",
+    "interface_version_created": "20120622",
+    "quality_tags": [],
+    "additives_prev_original_tags": [
+      "en:e435"
+    ],
+    "lang": "fr",
+    "minerals_tags": [],
+    "last_editor": "foodrepo",
+    "code": "0016229004019",
+    "allergens_from_ingredients": "",
+    "states_hierarchy": [
+      "en:to-be-checked",
+      "en:complete",
+      "en:nutrition-facts-completed",
+      "en:ingredients-completed",
+      "en:expiration-date-completed",
+      "en:packaging-code-to-be-completed",
+      "en:characteristics-completed",
+      "en:categories-completed",
+      "en:brands-completed",
+      "en:packaging-completed",
+      "en:quantity-completed",
+      "en:product-name-completed",
+      "en:photos-validated",
+      "en:photos-uploaded"
+    ],
+    "ingredients_text_en": "Coconut extract 70%, water.",
+    "product_name_fr": "Extrait de noix de coco",
+    "product_quantity": 400,
+    "last_image_t": 1554132213,
+    "nova_groups": "4",
+    "pnns_groups_2_tags": [
+      "unknown",
+      "missing-association"
+    ],
+    "additives_prev": " [ extrait-de-noix-de-coco -> fr:extrait-de-noix-de-coco  ]  [ extrait-de-noix-de -> fr:extrait-de-noix-de  ]  [ extrait-de-noix -> fr:extrait-de-noix  ]  [ extrait-de -> fr:extrait-de  ]  [ extrait -> fr:extrait  ]  [ 70 -> fr:70  ]  [ eau -> fr:eau  ]  [ emulsifiant -> fr:emulsifiant  ]  [ e435 -> en:e435  -> exists  -- ok  ] ",
+    "nutrition_grades_tags": [
+      "d"
+    ],
+    "categories_hierarchy": [
+      "en:Coconut creams",
+      "fr:Crèmes de coco"
+    ],
+    "categories_lc": "fr",
+    "labels_prev_hierarchy": [
+      "en:green-dot"
+    ],
+    "serving_quantity": 90,
+    "ingredients_that_may_be_from_palm_oil_n": 0,
+    "nutrition_grade_fr": "d",
+    "nova_group_debug": " -- ingredients/en:emulsifier : 4",
+    "ingredients_text_fr": "extrait de noix de coco (70%), eau, émulsifiant : E435",
+    "traces_from_ingredients": "",
+    "nutrition_data_per": "100g",
+    "nova_group": "4",
+    "packaging_tags": [
+      "canned"
+    ],
+    "editors_tags": [
+      "kp757",
+      "openfoodfacts-contributors",
+      "upcbot",
+      "usda-ndb-import",
+      "manu1400",
+      "foodrepo",
+      "paskl"
+    ],
+    "unknown_ingredients_n": 0,
+    "last_edit_dates_tags": [
+      "2019-04-01",
+      "2019-04",
+      "2019"
+    ],
+    "allergens_hierarchy": [],
+    "editors": [
+      "",
+      "kp757",
+      "manu1400",
+      "upcbot"
+    ],
+    "brands_tags": [
+      "savoy"
+    ],
+    "stores_tags": [],
+    "additives_debug_tags": [],
+    "ingredients": [
+      {
+        "text": "extrait de noix de coco",
+        "rank": 1,
+        "id": "en:coconut-extract",
+        "percent": "70"
+      },
+      {
+        "rank": 2,
+        "text": "eau",
+        "id": "en:water"
+      },
+      {
+        "id": "en:emulsifier",
+        "rank": 3,
+        "text": "émulsifiant"
+      },
+      {
+        "id": "fr:e435",
+        "text": "E435",
+        "rank": 4
+      }
+    ],
+    "fruits-vegetables-nuts_100g_estimate": 0,
+    "states": "en:to-be-checked, en:complete, en:nutrition-facts-completed, en:ingredients-completed, en:expiration-date-completed, en:packaging-code-to-be-completed, en:characteristics-completed, en:categories-completed, en:brands-completed, en:packaging-completed, en:quantity-completed, en:product-name-completed, en:photos-validated, en:photos-uploaded",
+    "ingredients_from_or_that_may_be_from_palm_oil_n": 0,
+    "emb_codes_orig": "",
+    "origins": "Thailand",
+    "update_key": "pnns1",
+    "additives_n": 1,
+    "new_additives_n": 1,
+    "last_modified_by": "foodrepo",
+    "languages_codes": {
+      "fr": 6,
+      "en": 2
+    }
+  }

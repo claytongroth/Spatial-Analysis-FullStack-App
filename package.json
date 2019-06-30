@@ -1,0 +1,42 @@
+{
+  "name": "nosh",
+  "version": "1.0.0",
+  "description": "ethical food consumer app",
+  "main": "index.js",
+  "scripts": {
+    "start": "concurrently \"cd backend && node server.js\" \"cd client && npm start\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@elfalem/leaflet-curve": "^0.3.0",
+    "@turf/interpolate": "^5.1.5",
+    "@turf/turf": "^5.1.6",
+    "axios": "^0.18.0",
+    "body-parser": "^1.19.0",
+    "concurrently": "^4.0.1",
+    "font-awesome": "^4.7.0",
+    "geojson": "^0.5.0",
+    "leaflet": "^1.4.0",
+    "leaflet-ajax": "^2.1.0",
+    "leaflet-ant-path": "^1.2.1",
+    "leaflet-easybutton": "^2.4.0",
+    "leaflet-measure-path": "^1.4.2",
+    "leaflet-react": "^3.0.5",
+    "leaflet.bezier": "^0.1.0",
+    "mongodb": "^3.2.7",
+    "query-string": "^6.4.2",
+    "react": "^16.8.6",
+    "react-bootstrap": "^1.0.0-beta.8",
+    "react-dom": "^16.8.6",
+    "react-geocode": "^0.1.2",
+    "react-leaflet": "^2.4.0",
+    "react-router-dom": "^5.0.0",
+    "react-scripts": "^3.0.0",
+    "regression": "^2.0.1",
+    "renamer": "^1.1.1",
+    "url": "^0.11.0"
+  },
+  "devDependencies": {}
+}

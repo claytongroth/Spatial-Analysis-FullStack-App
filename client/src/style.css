@@ -1,0 +1,107 @@
+html{
+    font: 10pt "Helvetica Neue", Arial, Helvetica, sans-serif;
+    background-color: black;
+}
+body {
+  font-family: 'Inconsolata', monospace;
+  color: #F4E9BD;
+  background-color: black;
+}
+#map {
+	height: 80vh;
+  z-index: 1;
+}
+#mspinner{
+  z-index: 2;
+  position: absolute;
+  left: 50%;
+  margin-left: -50px;
+  top: 20%;
+  background: radial-gradient(
+    circle closest-side,
+    rgba(255,255,255, .5),
+    rgba(255,255,255, 0)
+    );
+}
+#r2{
+  font-size: 50px;
+}
+#hrs{
+  background-color: #F4E9BD;
+}
+#statsheader{
+  font-size: 20px;
+}
+#selectInt{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: #F4E9BD;
+  color: black;
+  border-color:#197E6C;
+  border-radius: 5px;
+}
+#Submit, #Clear{
+    cursor: pointer;
+}
+#Clear{
+  background-color: #F4E9BD;
+  color: black;
+  border-color:#197E6C;
+}
+#Submit{
+  background-color: #5FCDB3;
+  color: black;
+  border-color:#197E6C;
+}
+#Clear:hover, #Submit:hover, #AddRem:hover{
+  border-color: black;
+  border-width: thick;
+}
+#tabtitle{
+  color:#5FCDB3;
+  margin-top: 10px;
+}
+#uncontrolled-tab-example-tab-addUpdate{
+  font-size: 150%;
+  background-color: black;
+  color: #F4E9BD;
+}
+#uncontrolled-tab-example-tab-query{
+  font-size: 150%;
+  background-color: black;
+  color: #F4E9BD;
+}
+.col-md-12 .control-label{
+  font-size: 125%;
+  color:#5FCDB3;
+}
+#NotAvail{
+  background-color: #9F1656;
+  color: black;
+  border-color:#197E6C;
+  margin-bottom: 15px;
+}
+#AddRem{
+  background-color: #5FCDB3;
+  color: black;
+  border-color:#197E6C;
+  margin-bottom: 5px;
+}
+#IDW{
+  margin-top: 10px;
+}
+#KM, #IDW {
+  background-color: #F4E9BD;
+  color: black;
+  border-color:#197E6C;
+}
+/*
+Color Scheme
+
+9F1656
+FB0F58
+F4E9BD
+5FCDB3
+197E6C
+
+ */
